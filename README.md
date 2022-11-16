@@ -27,7 +27,7 @@ For further business inquiries and research collaboration projects, you can cont
 ## **Connect with me:**
 [![Follow](https://img.shields.io/twitter/follow/kurniayazid?style=social)](https://www.twitter.com/kurniayazid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)]()
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@kurnia.yazid)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@yazidega)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/kurniayazid)
 [![kurniayazid.github.io](https://img.shields.io/badge/kurniayazid-.github.io-blue)](http://kurniayazid.github.io)
 [![Email Me](https://img.shields.io/badge/Email-Me!-brightgreen?style=for-the-badge&style=social&logo=Email&logoColor=white)](mailto:e.yazid@columbia.edu)
