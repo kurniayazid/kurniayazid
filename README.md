@@ -12,12 +12,13 @@ Ega Kurnia Yazid (he/him), or known as Ega, is an MA student in Quantitative Met
 ![STATA](https://img.shields.io/badge/STATA-blue?style=for-the-badge&style=social&logo=STATA&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&style=social&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&style=social&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-forestgreen?style=for-the-badge&style=social&logo=QGIS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-red?style=for-the-badge&style=social&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&style=social&logo=tableau&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-grey?style=for-the-badge&style=social&logo=latex&logoColor=white)
 
-**Certification**: [![IBM](https://img.shields.io/badge/Data_Science_Professional_Certificate-white?style=for-the-badge&style=social&logo=IBM&logoColor=blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/EAZ88LMHANAE)
+**DS Certification**: [![IBM](https://img.shields.io/badge/Data_Science_Professional_Certificate-white?style=for-the-badge&style=social&logo=IBM&logoColor=blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/EAZ88LMHANAE)
 
 Business inquiries and research collaboration
 ------
