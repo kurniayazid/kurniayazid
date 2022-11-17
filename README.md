@@ -17,6 +17,8 @@ Ega Kurnia Yazid (he/him), or known as Ega, is an MA student in Quantitative Met
 ![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&style=social&logo=tableau&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-grey?style=for-the-badge&style=social&logo=latex&logoColor=white)
 
+**Certification**: [![IBM](https://img.shields.io/badge/Data_Science_Professional_Certificate-white?style=for-the-badge&style=social&logo=IBM&logoColor=blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/EAZ88LMHANAE)
+
 Business inquiries and research collaboration
 ------
 For further business inquiries and research collaboration projects, you can contact me through any social media platforms (preferably [email](mailto:e.yazid@columbia.edu)) provided in this website. I am eager to roll my sleeves up to contribute in making world better through evidence-based policy.
@@ -31,4 +33,4 @@ For further business inquiries and research collaboration projects, you can cont
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-white?style=for-the-badge&style=social&logo=googlescholar&logoColor=blue)](https://scholar.google.com/citations?user=uhMf_XAAAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/kurniayazid)
 [![kurniayazid.github.io](https://img.shields.io/badge/kurniayazid-.github.io-blue)](http://kurniayazid.github.io)
-[![Email Me](https://img.shields.io/badge/Email-Me!-brightgreen?style=for-the-badge&style=social&logo=Email&logoColor=white)](mailto:e.yazid@columbia.edu)
+[![Email Me](https://img.shields.io/badge/Email-Me!-brightgreen?style=for-the-badge&style=social&logo=Gmail&logoColor=white)](mailto:e.yazid@columbia.edu)
